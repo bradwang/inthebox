@@ -1,2 +1,2 @@
 # inthebox
-my private repository
+my repository

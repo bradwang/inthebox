@@ -1,1 +1,1 @@
-select * from test limit 10;
+#put sql examples for mysql here
